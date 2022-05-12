@@ -6,8 +6,7 @@
 @email is an open-source app on the @platform providing people the ability to send email messages on a peer-to-peer encrypted network.
 
 ## Who is this for?
-The README should be addressed to somebody who's never seen this before.
-But also don't assume that they're a novice.
+This project is intended for any developer or designer interested in creating apps in Flutter and contributing to online data privacy.
 
 ## How to Contribute as a Developer
 We will have issues open for prioritized app features that open-source developers. Feel free to add ideas for features or bug fixes as issues on this repo. Contributions should be submitted as pull requests for review. See the CONTRIBUTING.md guide for more details! 
@@ -16,7 +15,8 @@ We will have issues open for prioritized app features that open-source developer
 We will have issues open for prioritized app features to be designed and implemented. For each feature, designers can submit links to Figma / Adobe XD as a comment on the GitHub Issue.
 
 ## Installation & Dependencies
-Install Dart: https://dart.dev/get-dart
+Clone the repo: https://github.com/atsign-foundation/privatefit.git <br>
+Install Dart: https://dart.dev/get-dart <br>
 Install Flutter: https://docs.flutter.dev/get-started/install
 
 ### Acknowledgement/Attribution
