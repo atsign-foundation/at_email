@@ -1,4 +1,4 @@
-package com.example.open_source_app_default
+package com.example.at_email
 
 import io.flutter.embedding.android.FlutterActivity
 
