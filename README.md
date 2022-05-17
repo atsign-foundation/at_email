@@ -18,7 +18,7 @@ Install Dart: https://dart.dev/get-dart <br>
 Install Flutter: https://docs.flutter.dev/get-started/install
 
 ### Acknowledgement/Attribution
-This project was initially created by members of The @ Company, intended to built on by open-source designers and developers.
+This project was initially created by members of The @ Company, intended to built on by open-source designers and developers. This repository was built off of an open source template created by Sahil Mehta (Sahil-Mehta881), and the code base was built of at_app starter code created by Xavier Chanthavong (XavierChanth).
 
 ### LICENSE
 See the LICENSE file for details on open-source development policies
