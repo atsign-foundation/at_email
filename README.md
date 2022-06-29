@@ -1,4 +1,4 @@
-<img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
+<img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
 
 # @email Overview
 @email is an open-source app on the atPlatform providing people the ability to send email messages on a peer-to-peer encrypted network.
